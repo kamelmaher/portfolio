@@ -4,6 +4,5 @@
     box-sizing: border-box;
 }
 header {
-    background-color: rebeccapurple;
-    padding: 20px;
+    transform: translate(50px);
 }
